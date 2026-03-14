@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "https://Aryaman431.github.io/Trouble-/",
-
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -14,7 +13,7 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
-    "next": "15.4.5",
+    "next": "^15.5.0",
     "phaser": "^3.90.0",
     "react": "19.1.0",
     "react-dom": "19.1.0"
