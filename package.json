@@ -2,14 +2,15 @@
   "name": "trouble",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{Aryaman431}.github.io/{Trouble-}/",
+  "homepage": "https://Aryaman431.github.io/Trouble-/",
 
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy": "npm run build",
+    "export": "next export",
+    "predeploy": "npm run build ",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
