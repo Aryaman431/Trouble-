@@ -95,9 +95,7 @@ This project can be deployed using:
 
 ---
 
-## 👨‍💻 Author
 
-**Aryaman K Sharma**
-Computer Science Student – Atria Institute of Technology
 
-GitHub: https://github.com/Aryaman431
+https://ttrouble.vercel.app/
+
