@@ -87,13 +87,9 @@ npm start
 
 ## 🌐 Deployment
 
-This project can be deployed using:
+This project has been deployed using:
 
-* Vercel
-* Netlify
-* GitHub Pages (static export)
-
----
+* Vercel 
 
 
 
